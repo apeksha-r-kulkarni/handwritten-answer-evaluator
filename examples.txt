@@ -1,0 +1,29 @@
+1)7.jpeg
+model_answer = """A database is an organized collection of structured data used for storing and managing information"""
+keywords = [
+    "database",
+    "organized",
+    "collection",
+    "structured",
+    "data",
+    "store",
+    "manage",
+    "information"
+]
+
+2)1.jpeg
+model_answer = """I am in Bengaluru"""
+keywords = [
+    "bengaluru","in","am"
+]
+3)1.jpeg
+model_answer = """An operating system is system software that manages hardware and software resources"""
+keywords = [
+    "operating",
+    "system",
+    "software",
+    "manages",
+    "hardware",
+    "resources"
+]
+
