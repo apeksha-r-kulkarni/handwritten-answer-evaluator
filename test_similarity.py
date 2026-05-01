@@ -9,7 +9,7 @@ reader = easyocr.Reader(['en'])
 # -----------------------------
 # 🔹 Read image
 # -----------------------------
-results = reader.readtext('ex2.jpeg', detail=0)
+results = reader.readtext('images/OS/1.jpeg', detail=0)
 
 # Join detected text
 student_text = " ".join(results)
